@@ -1,0 +1,17 @@
+{
+  "name": "muict446-projectpi-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Thanan Sapthamrong, Kritsada Sunthornwutthikrai",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "isomorphic-fetch": "^2.2.1",
+    "request": "^2.83.0",
+    "@line/bot-sdk": "^5.0.0"
+  }
+}
